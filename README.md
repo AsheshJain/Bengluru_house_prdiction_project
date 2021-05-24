@@ -61,3 +61,12 @@ this is used to compare the different Models and along with their different para
 * #### import plotly.graph_objs as go
 * #### from dash.dependencies import Input, Output
 #### these all are used to make the Dashboard through which i have presented the model
+
+## Model Working Shots :
+### At a Glance :
+![Screenshot 2021-05-24 at 12 03 51 PM](https://user-images.githubusercontent.com/78098555/119306880-776ae380-bc88-11eb-8f48-77c308eef7fd.png)
+
+
+### After Prediction :
+![Screenshot 2021-05-24 at 12 04 19 PM](https://user-images.githubusercontent.com/78098555/119306763-468aae80-bc88-11eb-9e8a-e0e5bd386c46.png)
+
